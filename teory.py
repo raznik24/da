@@ -41,3 +41,4 @@
 #s2 = "0001"
 #t2 = datetime.strptime(
 #s2, "%Y")
+#"git add .; git commit -a -m 'commit'; git push; clear; python -u"
